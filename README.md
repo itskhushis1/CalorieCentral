@@ -1,1 +1,1 @@
-# gitbot2
+# gitbot
