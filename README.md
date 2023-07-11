@@ -1,7 +1,8 @@
-# FitFlow
+# CalorieCentral 
 
-Health Tracker
+Calorie Tracker 
 
-- It aims to help individuals monitor and manage their physical activity, nutrition, and overall health. 
-- It includes features that allow users to set goals, track progress, receive personalized recommendations, and connect with other users or health professionals.
+- This application assists individuals in controlling their diet and tracking their calorie intake.
+- It serves as a shared platform for nutritionists and their clients to establish a healthy eating plan.
+- Furthermore, the app generates tailored visual representations to help users better comprehend their nutritional status.
 
